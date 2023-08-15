@@ -73,6 +73,7 @@ traversalMethod
     | traversalMethod_groupCount // groupCount()
     | traversalMethod_values    // values()
     | traversalMethod_is    // is()
+    | traversalMethod_identity // identity()
     | traversalMethod_where // where()
     | traversalMethod_inV   // inV()
     | traversalMethod_outV  // outV()
